@@ -110,13 +110,22 @@ a.click-button {
     width: 30%;
     text-align: center;
 }
+.Youtube-subscriber h1{
+margin: 0;
+}
 .instagram-follower{
     width: 30%;
     text-align: center;
 }
+.instagram-follower h1{
+    margin: 0;
+}
 .likes{
     width: 30%;
     text-align: center;
+}
+.likes h1{
+    margin: 0;
 }
 footer{
     text-align: center;
