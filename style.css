@@ -11,7 +11,7 @@ a.click-button { text-decoration: none; color: white; font-weight: 700; backgrou
 .about-me-section { background-image: url("images/shapes/7.png"); background-repeat: no-repeat; }
 .about-me-left-part { width: 50%; }
 .about-me-left-part img { width: 50%; margin: 10% 0px 0px 20%; }
-.about-me-right-part p { width: 80%; margin: 2% 0px 20%; color: rgb(130, 130, 130); }
+.about-me-right-part p { width: 80%; margin: 2% 0px 10%; color: rgb(130, 130, 130); }
 .about-me-right-part h1 { margin: 32% 0px 0px; }
 .about-me-right-part { width: 50%; }
 .my-recipes { text-align: center; margin: 10% 0px 0px; }
